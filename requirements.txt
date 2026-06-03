@@ -12,3 +12,6 @@ werkzeug==3.0.3
 gunicorn==22.0.0
 pandas==2.2.2
 openpyxl==3.1.4
+tensorflow-cpu==2.16.1
+tf-keras==2.16.0
+deepface==0.0.93
