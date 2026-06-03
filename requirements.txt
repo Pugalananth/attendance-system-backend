@@ -9,8 +9,8 @@ deepface==0.0.93
 opencv-python-headless==4.9.0.80
 numpy==1.26.4
 Pillow==10.4.0
-tf-keras==2.16.0
-tensorflow==2.16.1
+tensorflow==2.15.0
+tf-keras==2.15.0
 werkzeug==3.0.3
 gunicorn==22.0.0
 pandas==2.2.2
